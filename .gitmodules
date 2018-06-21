@@ -1,3 +1,6 @@
 [submodule "microverse"]
 	path = microverse
 	url = git@github.com:ImanMh/microverse.git
+[submodule "samlpe-web-react"]
+	path = samlpe-web-react
+	url = git@github.com:ImanMh/samlpe-web-react.git
